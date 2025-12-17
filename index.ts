@@ -1,5 +1,1 @@
-function run(name: string): string {
-  return `Hello ${name}`;
-}
-
-console.log(run("akshay"));
+console.log("Hello via Bun!");
