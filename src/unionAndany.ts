@@ -6,7 +6,7 @@ apiRequestStatus = "error";
 
 const orders = ["12", "23", "45", "34"];
 
-let currentOrder;
+let currentOrder: string | undefined;
 
 for (let order of orders) {
   if (currentOrder === "45") {
@@ -14,3 +14,5 @@ for (let order of orders) {
     break;
   }
 }
+
+console.log(currentOrder);
