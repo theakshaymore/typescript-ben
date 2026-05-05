@@ -1,3 +1,3 @@
 # TypeScript
 
-![Diagram](diagram.png)
+![Diagram](diagram2.png)
